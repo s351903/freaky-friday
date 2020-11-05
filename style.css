@@ -1,0 +1,40 @@
+body{
+    /*background-image: url("images/pink cloud.jpg");*/
+    background-color: antiquewhite;
+    font-size: 80%;
+
+    line-height: 1.5;
+    text-align: left;
+    margin: 10%;
+    margin-top: 1%;
+
+
+
+}
+
+
+.mainheader nav{
+    background-color: cadetblue;
+    height: 40px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.mainheader nav ul{
+    text-align:center;
+    list-style:none;
+    margin: 0 auto;
+    padding: 0;
+
+}
+.mainheader nav ul li{
+    display: inline;
+    padding: 70px;
+
+}
+.post-image {
+    width: 50%;
+    height: 400px;
+    margin-left: 20%;
+}
+
